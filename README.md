@@ -5,7 +5,7 @@ If you wanna help with start programming, Python or data scicence undergraduate,
 
 📫 You can find me @
 
-- 🐣 [Twitter[](https://twitter.com/francoelayni)
+- 🐣 [Twitter](https://twitter.com/francoelayni)
 
 - 👤💻 [LinkedIn](https://www.linkedin.com/in/elaynifranco/)
 
