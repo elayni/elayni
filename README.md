@@ -1,4 +1,4 @@
-🌠 ### Hi there 
+### Hi there 🌠
 
 My name's Elayni Franco. I'm data science and artifical intelligence undergraduate at UFPB. I'm currently learning data science, Python and AI.
 If you wanna help with start programming, Python or data scicence undergraduate, aske me. ✨
