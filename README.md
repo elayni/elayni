@@ -1,16 +1,20 @@
-### Hi there 👋
+#### Hi there 🌠
 
-<!--
-**elayni/elayni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Elayni Franco. I'm data science and artifical intelligence undergraduate at UFPB. I'm currently learning data science, Python and AI.
+If you wanna help with start programming, Python or data scicence undergraduate, aske me. ✨
 
-Here are some ideas to get you started:
+- 📫 You can find me @
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐣 [Twitter[](https://twitter.com/francoelayni)
+👤💻 [LinkedIn](https://www.linkedin.com/in/elaynifranco/)
+🎮 [Steam](https://steamcommunity.com/id/colddarkmatter/)
+
+- 😄 Pronouns: She/Her
+
+- ⚡ Fun facts:
+
+🎓 :woman_health_worker: I have a bachelor degree in Nursing 💉
+🎧 I love extreme metal music 
+🐍 I'm a Pylady
+
+
