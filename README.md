@@ -13,8 +13,12 @@ If you wanna help with start programming, Python or data scicence undergraduate,
 
 - ⚡ Fun facts:
 
-🎓 :woman_health_worker: I have a bachelor degree in Nursing 💉
+🎓 :woman_health_worker: I have a bachelor degree in Nursing 
+
+
 🎧 I love extreme metal music 
+
+
 🐍 I'm a Pylady
 
 
