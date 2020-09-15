@@ -19,6 +19,6 @@ If you wanna help with start programming, Python or data scicence undergraduate,
 
 - 🎧 I love extreme metal music 
 
-- 🐍 I'm a Pylady
+- 🐍 I'm Pylady
 
 
