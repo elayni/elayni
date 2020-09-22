@@ -1,6 +1,6 @@
 ### Hi there 🌠
 
-My name's Elayni Franco. I'm data science and artifical intelligence undergraduate at UFPB. I'm currently learning data science, Python and AI.
+My name's Elayni Franco. I'm data science and artifical intelligence undergraduate at UFPB. I'm currently learning data science, Python and AI. I'm a PyLady, meet [PyLaies Paraíba](https://github.com/pyladiespb-org).
 If you wanna help with start programming, Python or data scicence undergraduate, aske me. ✨
 
 📫 You can find me @
@@ -18,7 +18,3 @@ If you wanna help with start programming, Python or data scicence undergraduate,
 - :woman_health_worker: I have bachelor degree in Nursing 
 
 - 🎧 I love extreme metal music 
-
-- 🐍 I'm a Pylady
-
-
