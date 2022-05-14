@@ -12,7 +12,7 @@ If you wanna help with start programming, Python or data science undergraduate, 
 
 - :woman_health_worker: I have bachelor degree in Nursing 
 
-- 🎧 I love extreme metal music [last.fm)(https://www.last.fm/pt/user/Elayni6)
+- 🎧 I love extreme metal music [last.fm](https://www.last.fm/pt/user/Elayni6)
 
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elayni&theme=dracula)](https://github.com/elayni/)
