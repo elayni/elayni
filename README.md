@@ -13,7 +13,7 @@ If you wanna help with start programming, Python or data science undergraduate a
 - 🎧 I love extreme metal music [last.fm](https://www.last.fm/pt/user/Elayni6)
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elayni&theme=dracula)](https://github.com/elayni/)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elayni&theme=outrun)](https://github.com/elayni/)
 
 ![Elayni's GitHub stats](https://github-readme-stats.vercel.app/api?username=elayni&count_private=true&theme=outrun)
 
